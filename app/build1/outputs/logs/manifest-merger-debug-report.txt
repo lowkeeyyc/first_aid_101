@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\1395be595d1bf5208d4aa17d273b1de9\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\59181eacfb4b7eee4dafce0dbe8239cc\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\704e41eb6d15a0c7b3ee010da4599362\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\72a7c81fe8b6a800f597dfaa86c6f604\transformed\navigation-fragment-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\160f4a71d36a35cce23e5853bbb43703\transformed\navigation-fragment-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\iansa\.gradle\caches\transforms-3\800b8a8f020dd0408d059ffbebe7847d\transformed\fragment-ktx-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\543813ad72e1442fae3280d1963546fe\transformed\navigation-ui-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\8819cbf3c672975d7f058adfb43f1de4\transformed\navigation-runtime-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\8fa3a4fe5eca00474b359a8007e62fdf\transformed\navigation-ui-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\0e0744f25a8154c6c9ba0feb843b27d5\transformed\navigation-runtime-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\iansa\.gradle\caches\transforms-3\cb274b26aadbcd9c51fa0211062b266f\transformed\activity-ktx-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\99bf6d67a76abdf3edcb714329beb1b6\transformed\navigation-common-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\d70082628147f1cb6fc6e2dbf0fafb17\transformed\navigation-common-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\ad8e72a6a97bb187f786f8b41895debc\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\d9b755f9daa34ef28e15ba6dcecc369b\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\iansa\.gradle\caches\transforms-3\7f8ff1a21af6688a701ccc2d7804e796\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\iansa\.gradle\caches\transforms-3\d97cdce067c151a94615b683fa0acfb1\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\iansa\.gradle\caches\transforms-3\a463255be33ad427f604c08b3130ee6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\iansa\.gradle\caches\transforms-3\472eb931fb7b5748cf11a2a7614c881a\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\721bdca366021e2593cb53a22804dac5\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\a3a3dc2ebc085293f36b5993e05fa1d9\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\iansa\.gradle\caches\transforms-3\c96aa90300a1981fde700d99b7c1c0a3\transformed\firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\iansa\.gradle\caches\transforms-3\411491d5462f6d0e752a7df6c4f0b14e\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\iansa\.gradle\caches\transforms-3\3d11750af17a8b2e248615d562d28b50\transformed\firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\iansa\.gradle\caches\transforms-3\60cc1b58b4c5e99b9759fa0ad9b52419\transformed\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\b33715081bf9565e3df29bf23e500d9a\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\479b281b287be1cff46e839ad33ec1b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\iansa\.gradle\caches\transforms-3\d94d5bd1d7c04b70d629feba187f8198\transformed\fragment-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\iansa\.gradle\caches\transforms-3\f86329624877914cc4019b59065451d8\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\iansa\.gradle\caches\transforms-3\bf60447f6654ad225391e5f73ab69047\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\94af49b42d38bb67cd0163dd4189479b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\1da379970de1abb6c9f38660213cace6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\71c8a3dcd39f7e634d0422d3c607fb0e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\035e5a72d7154377801501b549d63699\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\a94a107993bb1913fec884d87508d884\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6b0814a7700d200197630b3e84446904\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\d92c2175db77bc7cb6104546502deae5\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\iansa\.gradle\caches\transforms-3\f61ed58cd8aa789e0ff1deadcbb16e34\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\fd851a70a5b6d35da34309658a3b0809\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\c01a07c65e96478489f9dc61c96761c3\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\iansa\.gradle\caches\transforms-3\78850c4e8476576748029eb0bc0a1db7\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\iansa\.gradle\caches\transforms-3\48216d1a9fa60b938edb0fdc70398a2a\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\iansa\.gradle\caches\transforms-3\5fd11ba1e2a8dd10f811b2fa382bc53f\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\iansa\.gradle\caches\transforms-3\c66e764afa6bbd4b1083948c5013b988\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\fde87d71dfeb8d87c188417e5e58c75c\transformed\viewbinding-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\94045f153dfed6283b9210e7eb05c8fe\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\f30095f5818b255c5b40754ed351a315\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\e2755312980a0b18fe2d1c65caf50774\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\778368efd4640e05c5ed83712eb23cf1\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\e92b782cdce004039afd9bf4cee0bb75\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\336d452e43ae51ca441d29d1520c665f\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\bf0b2fcc83870d481e22426fb78d2125\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\d8b4ac872eba493b2b71cfaece804244\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\2a26baa4fc337881dd273b000fbfd040\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\10eec4a86658ab10a085603589a8747e\transformed\firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\8ee48baa029ad58fe0d39fb1fa94cac6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\73160147a07d571acdd4bf1cfd38d342\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\iansa\.gradle\caches\transforms-3\7b399514a2e74123b439fd7be6126da2\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\508ba631ea70a36237bf49f1b0b9c43c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\cbc8dfa771c792945a74ee5a302e8c5f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\0cdf34f25273b6eca6ae33db8bab423a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\cbce30a393b4832a83b22d7188c1d3da\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\75c10c2a681b0058f5e6f2c9a11784c6\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\414be1c15dfa78a849d63f68a20260a3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:6:5-23:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\iansa\.gradle\caches\transforms-3\d97cdce067c151a94615b683fa0acfb1\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\iansa\.gradle\caches\transforms-3\d97cdce067c151a94615b683fa0acfb1\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\iansa\.gradle\caches\transforms-3\a463255be33ad427f604c08b3130ee6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\iansa\.gradle\caches\transforms-3\a463255be33ad427f604c08b3130ee6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\721bdca366021e2593cb53a22804dac5\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\721bdca366021e2593cb53a22804dac5\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\iansa\.gradle\caches\transforms-3\c96aa90300a1981fde700d99b7c1c0a3\transformed\firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\iansa\.gradle\caches\transforms-3\c96aa90300a1981fde700d99b7c1c0a3\transformed\firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\iansa\.gradle\caches\transforms-3\411491d5462f6d0e752a7df6c4f0b14e\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\iansa\.gradle\caches\transforms-3\411491d5462f6d0e752a7df6c4f0b14e\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\iansa\.gradle\caches\transforms-3\60cc1b58b4c5e99b9759fa0ad9b52419\transformed\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\iansa\.gradle\caches\transforms-3\60cc1b58b4c5e99b9759fa0ad9b52419\transformed\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\b33715081bf9565e3df29bf23e500d9a\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\b33715081bf9565e3df29bf23e500d9a\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\479b281b287be1cff46e839ad33ec1b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\479b281b287be1cff46e839ad33ec1b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\iansa\.gradle\caches\transforms-3\5fd11ba1e2a8dd10f811b2fa382bc53f\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\iansa\.gradle\caches\transforms-3\5fd11ba1e2a8dd10f811b2fa382bc53f\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\iansa\.gradle\caches\transforms-3\c66e764afa6bbd4b1083948c5013b988\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\iansa\.gradle\caches\transforms-3\c66e764afa6bbd4b1083948c5013b988\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\iansa\.gradle\caches\transforms-3\5fd11ba1e2a8dd10f811b2fa382bc53f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:12:9-49
+activity#com.groupproject.firstaid101.MainActivity
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:exported
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:19:27-74
+queries
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:24:5-28:15
+intent#action:name:com.google.android.youtube.api.service.START
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:25:9-27:18
+action#com.google.android.youtube.api.service.START
+ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:26:13-82
+	android:name
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml:26:21-80
+uses-sdk
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\1395be595d1bf5208d4aa17d273b1de9\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\1395be595d1bf5208d4aa17d273b1de9\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\59181eacfb4b7eee4dafce0dbe8239cc\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\59181eacfb4b7eee4dafce0dbe8239cc\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\704e41eb6d15a0c7b3ee010da4599362\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\704e41eb6d15a0c7b3ee010da4599362\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\72a7c81fe8b6a800f597dfaa86c6f604\transformed\navigation-fragment-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\72a7c81fe8b6a800f597dfaa86c6f604\transformed\navigation-fragment-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\160f4a71d36a35cce23e5853bbb43703\transformed\navigation-fragment-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\160f4a71d36a35cce23e5853bbb43703\transformed\navigation-fragment-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\iansa\.gradle\caches\transforms-3\800b8a8f020dd0408d059ffbebe7847d\transformed\fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\iansa\.gradle\caches\transforms-3\800b8a8f020dd0408d059ffbebe7847d\transformed\fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\543813ad72e1442fae3280d1963546fe\transformed\navigation-ui-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\543813ad72e1442fae3280d1963546fe\transformed\navigation-ui-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\8819cbf3c672975d7f058adfb43f1de4\transformed\navigation-runtime-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\8819cbf3c672975d7f058adfb43f1de4\transformed\navigation-runtime-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\8fa3a4fe5eca00474b359a8007e62fdf\transformed\navigation-ui-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\8fa3a4fe5eca00474b359a8007e62fdf\transformed\navigation-ui-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\0e0744f25a8154c6c9ba0feb843b27d5\transformed\navigation-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\0e0744f25a8154c6c9ba0feb843b27d5\transformed\navigation-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\iansa\.gradle\caches\transforms-3\cb274b26aadbcd9c51fa0211062b266f\transformed\activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\iansa\.gradle\caches\transforms-3\cb274b26aadbcd9c51fa0211062b266f\transformed\activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\99bf6d67a76abdf3edcb714329beb1b6\transformed\navigation-common-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\99bf6d67a76abdf3edcb714329beb1b6\transformed\navigation-common-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\d70082628147f1cb6fc6e2dbf0fafb17\transformed\navigation-common-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] C:\Users\iansa\.gradle\caches\transforms-3\d70082628147f1cb6fc6e2dbf0fafb17\transformed\navigation-common-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\ad8e72a6a97bb187f786f8b41895debc\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\ad8e72a6a97bb187f786f8b41895debc\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\d9b755f9daa34ef28e15ba6dcecc369b\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\d9b755f9daa34ef28e15ba6dcecc369b\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\iansa\.gradle\caches\transforms-3\7f8ff1a21af6688a701ccc2d7804e796\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\iansa\.gradle\caches\transforms-3\7f8ff1a21af6688a701ccc2d7804e796\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\iansa\.gradle\caches\transforms-3\d97cdce067c151a94615b683fa0acfb1\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\iansa\.gradle\caches\transforms-3\d97cdce067c151a94615b683fa0acfb1\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\iansa\.gradle\caches\transforms-3\a463255be33ad427f604c08b3130ee6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\iansa\.gradle\caches\transforms-3\a463255be33ad427f604c08b3130ee6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\iansa\.gradle\caches\transforms-3\472eb931fb7b5748cf11a2a7614c881a\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\iansa\.gradle\caches\transforms-3\472eb931fb7b5748cf11a2a7614c881a\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\721bdca366021e2593cb53a22804dac5\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\721bdca366021e2593cb53a22804dac5\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\a3a3dc2ebc085293f36b5993e05fa1d9\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\a3a3dc2ebc085293f36b5993e05fa1d9\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\iansa\.gradle\caches\transforms-3\c96aa90300a1981fde700d99b7c1c0a3\transformed\firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\iansa\.gradle\caches\transforms-3\c96aa90300a1981fde700d99b7c1c0a3\transformed\firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\iansa\.gradle\caches\transforms-3\411491d5462f6d0e752a7df6c4f0b14e\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\iansa\.gradle\caches\transforms-3\411491d5462f6d0e752a7df6c4f0b14e\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\iansa\.gradle\caches\transforms-3\3d11750af17a8b2e248615d562d28b50\transformed\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\iansa\.gradle\caches\transforms-3\3d11750af17a8b2e248615d562d28b50\transformed\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\iansa\.gradle\caches\transforms-3\60cc1b58b4c5e99b9759fa0ad9b52419\transformed\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\iansa\.gradle\caches\transforms-3\60cc1b58b4c5e99b9759fa0ad9b52419\transformed\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\b33715081bf9565e3df29bf23e500d9a\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\b33715081bf9565e3df29bf23e500d9a\transformed\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\479b281b287be1cff46e839ad33ec1b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\479b281b287be1cff46e839ad33ec1b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\iansa\.gradle\caches\transforms-3\d94d5bd1d7c04b70d629feba187f8198\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\iansa\.gradle\caches\transforms-3\d94d5bd1d7c04b70d629feba187f8198\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\iansa\.gradle\caches\transforms-3\f86329624877914cc4019b59065451d8\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\iansa\.gradle\caches\transforms-3\f86329624877914cc4019b59065451d8\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\iansa\.gradle\caches\transforms-3\bf60447f6654ad225391e5f73ab69047\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\iansa\.gradle\caches\transforms-3\bf60447f6654ad225391e5f73ab69047\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\94af49b42d38bb67cd0163dd4189479b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\94af49b42d38bb67cd0163dd4189479b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\1da379970de1abb6c9f38660213cace6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\1da379970de1abb6c9f38660213cace6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\71c8a3dcd39f7e634d0422d3c607fb0e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\71c8a3dcd39f7e634d0422d3c607fb0e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\035e5a72d7154377801501b549d63699\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\035e5a72d7154377801501b549d63699\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\a94a107993bb1913fec884d87508d884\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\a94a107993bb1913fec884d87508d884\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6b0814a7700d200197630b3e84446904\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6b0814a7700d200197630b3e84446904\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\d92c2175db77bc7cb6104546502deae5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\d92c2175db77bc7cb6104546502deae5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\iansa\.gradle\caches\transforms-3\f61ed58cd8aa789e0ff1deadcbb16e34\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\iansa\.gradle\caches\transforms-3\f61ed58cd8aa789e0ff1deadcbb16e34\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\fd851a70a5b6d35da34309658a3b0809\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\fd851a70a5b6d35da34309658a3b0809\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\c01a07c65e96478489f9dc61c96761c3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\c01a07c65e96478489f9dc61c96761c3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\iansa\.gradle\caches\transforms-3\78850c4e8476576748029eb0bc0a1db7\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\iansa\.gradle\caches\transforms-3\78850c4e8476576748029eb0bc0a1db7\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\iansa\.gradle\caches\transforms-3\48216d1a9fa60b938edb0fdc70398a2a\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\iansa\.gradle\caches\transforms-3\48216d1a9fa60b938edb0fdc70398a2a\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\iansa\.gradle\caches\transforms-3\5fd11ba1e2a8dd10f811b2fa382bc53f\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\iansa\.gradle\caches\transforms-3\5fd11ba1e2a8dd10f811b2fa382bc53f\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\iansa\.gradle\caches\transforms-3\c66e764afa6bbd4b1083948c5013b988\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\iansa\.gradle\caches\transforms-3\c66e764afa6bbd4b1083948c5013b988\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\fde87d71dfeb8d87c188417e5e58c75c\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\iansa\.gradle\caches\transforms-3\fde87d71dfeb8d87c188417e5e58c75c\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\94045f153dfed6283b9210e7eb05c8fe\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\94045f153dfed6283b9210e7eb05c8fe\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\f30095f5818b255c5b40754ed351a315\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\f30095f5818b255c5b40754ed351a315\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\e2755312980a0b18fe2d1c65caf50774\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\e2755312980a0b18fe2d1c65caf50774\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\778368efd4640e05c5ed83712eb23cf1\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\778368efd4640e05c5ed83712eb23cf1\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\e92b782cdce004039afd9bf4cee0bb75\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\e92b782cdce004039afd9bf4cee0bb75\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\336d452e43ae51ca441d29d1520c665f\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\336d452e43ae51ca441d29d1520c665f\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\bf0b2fcc83870d481e22426fb78d2125\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\bf0b2fcc83870d481e22426fb78d2125\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\d8b4ac872eba493b2b71cfaece804244\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\d8b4ac872eba493b2b71cfaece804244\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\2a26baa4fc337881dd273b000fbfd040\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\2a26baa4fc337881dd273b000fbfd040\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\10eec4a86658ab10a085603589a8747e\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\10eec4a86658ab10a085603589a8747e\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\8ee48baa029ad58fe0d39fb1fa94cac6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\8ee48baa029ad58fe0d39fb1fa94cac6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\73160147a07d571acdd4bf1cfd38d342\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\iansa\.gradle\caches\transforms-3\73160147a07d571acdd4bf1cfd38d342\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\iansa\.gradle\caches\transforms-3\7b399514a2e74123b439fd7be6126da2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\iansa\.gradle\caches\transforms-3\7b399514a2e74123b439fd7be6126da2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\508ba631ea70a36237bf49f1b0b9c43c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\508ba631ea70a36237bf49f1b0b9c43c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\cbc8dfa771c792945a74ee5a302e8c5f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\cbc8dfa771c792945a74ee5a302e8c5f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\0cdf34f25273b6eca6ae33db8bab423a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\0cdf34f25273b6eca6ae33db8bab423a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\cbce30a393b4832a83b22d7188c1d3da\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\cbce30a393b4832a83b22d7188c1d3da\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\75c10c2a681b0058f5e6f2c9a11784c6\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\75c10c2a681b0058f5e6f2c9a11784c6\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\414be1c15dfa78a849d63f68a20260a3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\iansa\.gradle\caches\transforms-3\414be1c15dfa78a849d63f68a20260a3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android Projects\Kotlin\FirstAid101\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\iansa\.gradle\caches\transforms-3\4eba50b8e28a8568d5762f136b93e60b\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:14:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:13:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\4acc8f02b9869d541efb170753b6bc84\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:16:17-124
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\dda0f48b5cc82e1e5d6dba811e5a628f\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\iansa\.gradle\caches\transforms-3\141ef2b740a0bab9a269fef0e9fdc141\transformed\firebase-database-20.0.3\AndroidManifest.xml:33:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\iansa\.gradle\caches\transforms-3\6f8314081d5527d8498c530ab369a1cc\transformed\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\iansa\.gradle\caches\transforms-3\60cc1b58b4c5e99b9759fa0ad9b52419\transformed\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\iansa\.gradle\caches\transforms-3\60cc1b58b4c5e99b9759fa0ad9b52419\transformed\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\iansa\.gradle\caches\transforms-3\60cc1b58b4c5e99b9759fa0ad9b52419\transformed\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\iansa\.gradle\caches\transforms-3\60cc1b58b4c5e99b9759fa0ad9b52419\transformed\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\479b281b287be1cff46e839ad33ec1b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\479b281b287be1cff46e839ad33ec1b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\iansa\.gradle\caches\transforms-3\479b281b287be1cff46e839ad33ec1b3\transformed\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\iansa\.gradle\caches\transforms-3\92eec1afd977ce595a8e9c5af3662840\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

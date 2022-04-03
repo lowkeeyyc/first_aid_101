@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_2"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.groupproject.firstaid101.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_resultsFragment"
+            app:destination="@id/resultsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_tipsFragment"
+            app:destination="@id/tipsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/resultsFragment"
+        android:name="com.groupproject.firstaid101.ResultsFragment"
+        android:label="ResultsFragment"
+        tools:layout="@layout/fragment_results">
+        <action
+            android:id="@+id/action_resultsFragment_to_viewProcedureFragment"
+            app:destination="@id/viewProcedureFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewProcedureFragment"
+        android:name="com.groupproject.firstaid101.ViewProcedureFragment"
+        android:label="ViewProcedureFragment"
+        tools:layout="@layout/fragment_view_procedure">
+        <argument
+            android:name="Procedure"
+            app:argType="com.groupproject.firstaid101.Procedure" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/tipsFragment"
+        android:name="com.groupproject.firstaid101.tips.TipsFragment"
+        android:label="TipsFragment"
+        tools:layout="@layout/fragment_tips"/>
+</navigation>

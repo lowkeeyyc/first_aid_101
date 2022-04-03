@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tips.xml",
+        "source": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\src\\main\\res\\layout\\fragment_tips.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_procedure.xml",
+        "source": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\src\\main\\res\\layout\\item_procedure.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_tip.xml",
+        "source": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\src\\main\\res\\layout\\item_tip.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_view_procedure.xml",
+        "source": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\src\\main\\res\\layout\\fragment_view_procedure.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_results.xml",
+        "source": "D:\\Projects\\Android Projects\\Kotlin\\FirstAid101\\app\\src\\main\\res\\layout\\fragment_results.xml"
+    }
+]
